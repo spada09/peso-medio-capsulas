@@ -20,7 +20,7 @@ Layout simples, responsivo e fácil de usar em computadores e celulares.
 
 🚀 Como usar
 
-1. Abra o site aqui.
+1. [Abra o site aqui](https://pesomediocaps.netlify.app/).
 
 
 2. Preencha os campos com o peso das cápsulas (em gramas).
