@@ -3,7 +3,7 @@ document.getElementById("btnCalcular").addEventListener("click", function () {
   let valores = [];
 
   // Captura o número do pedido
-  const pedido = document.querySelector("input[placeholder='Ordem']").value;
+  const pedido = document.querySelector("input[placeholder='Req']").value;
 
   inputs.forEach(input => {
     let v = parseFloat(input.value);
@@ -58,4 +58,5 @@ document.getElementById("btnCalcular").addEventListener("click", function () {
 
   document.getElementById("resultado").innerHTML = resultadoHTML;
 });
+
 
